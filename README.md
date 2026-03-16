@@ -1,3 +1,6 @@
+# Programa: Esp. Inteligencia Artificial
+# Materia: Deep learning
+# Alumno: Jenifer Cardenas Aguilera. 
 # Week 3 - Backpropagation y Funciones de Activación
 
 ## Objetivo
